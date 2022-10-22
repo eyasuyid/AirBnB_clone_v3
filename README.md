@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Eyasu Yidnekachew - [Github](https://github.com/eyasuyid)
+Eyasu Yidnekachew - [Github](https://github.com/eyasuyid) <br>
 Joel Tekle - [Github](https://github.com/kidan16) 
 
 Second part of Airbnb: Joann Vuong
