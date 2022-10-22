@@ -73,3 +73,7 @@ class BaseModel:
     def delete(self):
         """delete the current instance from the storage"""
         models.storage.delete(self)
+    def get(self, cls, id):
+        """A method to retrieve one object"""
+    def count(self, cls=None):
+        """A method to count the number of objects in storage"""
