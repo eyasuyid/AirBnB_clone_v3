@@ -204,7 +204,7 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
 ## Authors
 <<<<<<< HEAD
 =======
-Eyasu Yidnekachew - [Github](https://github.com/eyasuyid) <br>
-Joel Tekle - [Github](https://github.com/kidan16) 
+Eyasu Yidnekachew - [Github](https://github.com/eyasuyid)
+Eyuel Woldesenbet - [Github](https://github.com/kidan16) 
 >>>>>>> fee7489d3e172a34db211d9b5130169103f5bbad
 
